@@ -1,0 +1,25 @@
+{
+  "name": "Peptide Planner ♡",
+  "short_name": "Peptide Planner",
+  "description": "Personal 30-day schedule and dose journal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fff9f6",
+  "theme_color": "#f8dfe7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
